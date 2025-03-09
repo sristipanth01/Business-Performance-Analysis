@@ -31,4 +31,4 @@ This Power BI dashboard provides an in-depth analysis of sales performance acros
 3. Use insights to optimize marketing spend and enhance revenue strategies.  
 
 ## Author  
-Shristi Pantha
+[Shristi Pantha]
