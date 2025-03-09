@@ -6,7 +6,7 @@
 - [Features](#features)
 - [Insights Gained](#insights-gained)
 - [Technology Used](#technology-used)
-- ([How to Use](#how-to-use)
+- [How to Use](#how-to-use)
 - [Snapshot of Dashboard](#snapshot-of-dashboard)
 
   
