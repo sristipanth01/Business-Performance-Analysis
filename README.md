@@ -28,7 +28,11 @@ This Power BI dashboard provides an in-depth analysis of sales performance acros
 ## How to Use  
 1. Open the Power BI file (.pbix) in Power BI Desktop.  
 2. Explore the interactive visualizations and apply filters as needed.  
-3. Use insights to optimize marketing spend and enhance revenue strategies.  
+3. Use insights to optimize marketing spend and enhance revenue strategies.
+
+# Snapshot of Dashboard (Power BI Service)
+
+   ![Image](https://github.com/user-attachments/assets/ab2ba548-d571-4be9-ad17-147d0a1d932f)
 
 ## Author  
 [Shristi Pantha]
